@@ -70,7 +70,7 @@ const templates = {
   `,
   footer: `
     <div class="${footerPrefix}">
-      Search by <a class="${footerPrefix}--logo" href="https://www.algolia.com/docsearch">Algolia</a>
+      ValQ
     </div>
   `,
   empty: `
